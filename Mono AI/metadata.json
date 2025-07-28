@@ -1,0 +1,6 @@
+{
+  "name": "AI Minimalist Wallpaper Generator",
+  "description": "Generate beautiful, minimalist wallpapers using AI. Simply describe your desired aesthetic and let the AI create a unique background for your device.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
